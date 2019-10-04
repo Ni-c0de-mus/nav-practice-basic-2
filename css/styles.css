@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css?family=Athiti|Capriola|Contrail+One|Duru+Sans|Freckle+Face|Krub|Manjari|Niramit|Palanquin+Dark|Pangolin&display=swap');
+
+*,
+*::before,
+*::after {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+/* Univeral settings */
+
+:root {
+
+ /* Coolors */
+
+ --m-elec-blue: #054A91;
+--tango-pink: #EF767A;
+--ube: #7D7ABC;
+--liberty: #6457A6;
+--gargoyle-gas: #FFE347;
+--sweet-brown: #AC3931;
+--gainsboro: #E2DADB;
+--alabaster: #EBE9E9;
+--queen-blue: #48639C;
+--pastel-gray: #CCD7C5;
+--black-leather: #273C2C;
+--pale-chestnut: #DBB1BC;
+--old-burgundy: #442B48;
+--baby-blue-eyes: #9AC4F8;
+--space-cadet: #2E294E;
+--pomp-power: #8D5A97;
+--magic-mint: #B4EDD2;
+--nickel: #7A7265;
+--rich-black: #00120B;
+--black-olive: #393D3F;
+--dark-sky-blue: #8FBFE0;
+--carolina-blue: #4D9DE0;
+--cool-black: #01295F;
+--jet: #32292F;
+--gunmetal: #272838;
+--misty-moss: #B5BA72;
+--sugar-plum: #904C77;
+--snow: #FFFCF9;
+--skobeloff: #0F7173;
+--steel-teal: #668586;
+
+ /* Fonts - google fonts */
+
+ --pangolin: 'Pangolin', cursive;
+ --contrail-one: 'Contrail One', cursive;
+ --manjari: 'Manjari', sans-serif;
+ --capriola: 'Capriola', sans-serif;
+ --niramet: 'Niramit', sans-serif;
+ --freckle-face: 'Freckle Face', cursive;
+ --palanquin-dark: 'Palanquin Dark', sans-serif;
+ --krub: 'Krub', sans-serif;
+ --duru-dans: 'Duru Sans', sans-serif;
+ --athiti: 'Athiti', sans-serif;
+
+}
+
+html {
+ font-size: 10px;
+ box-sizing: border-box;
+}
+
+/* Font Sizes */
+h1 {
+ font-size: 6rem;
+}
+
+h2 {
+ font-size: 5rem;
+}
+
+h3 {
+ font-size: 4rem;
+}
+
+h4 {
+ font-size: 3rem;
+}
+
+h5 {
+ font-size: 2.5rem;
+}
+
+h6 {
+ font-size: 2rem;
+}
+
+p {
+ font-size: 1.6rem;
+}
+
+a {
+ text-decoration: none;
+}
+
+ul, li {
+ list-style: none;
+}
+
+img {
+ width: 100%;
+ max-width: 100%;
+ height: auto;
+}
+
+
+
